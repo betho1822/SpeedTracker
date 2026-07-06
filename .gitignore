@@ -1,0 +1,21 @@
+# Xcode
+.DS_Store
+*.xcuserdata
+*.xcuserstate
+*.xcbkptlist
+Build/
+DerivedData/
+
+# macOS
+*.app
+.DS_Store?
+
+# Distribution
+dist/
+
+# Swift Package Manager
+.build/
+Packages/
+
+# Preview
+xcuserdata/
